@@ -35,4 +35,13 @@ Testing the contract functionality by depositing various Ether values (greater t
 
 ## Level Three: The Level Three: The DeferredEquityPlan Contract
 
+We are managing an employee's deferred equity incentive plan in which 1000 shares will be distributed over 4 years to the employee.
+
+The employees receive shares for joining and staying with the firm. They may receive, an award of 1,000 shares when joining, but with a 4 year vesting period for these shares. 
+
+This means that these shares would stay with the company, with only 250 shares (1,000/4) actually distributed to and owned by the employee each year. If the employee leaves within the first 4 years, he or she would forfeit ownership of any remaining (“unvested”) shares.
+
+![Deferred Contract](/contract_deferred.png)
+
+![Deferred Contract, deactivate, distribute](/deposit.png)
 
