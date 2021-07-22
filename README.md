@@ -31,7 +31,7 @@ In this contract, we will calculate rudimentary percentages for different tiers 
 
 Testing the contract functionality by depositing various Ether values (greater than 100 wei)
 
-![eployed Contracts](/deposit.png)
+![eployed Contracts](/Images/deposit.png)
 
 ## Level Three: The Level Three: The DeferredEquityPlan Contract
 
@@ -41,7 +41,7 @@ The employees receive shares for joining and staying with the firm. They may rec
 
 This means that these shares would stay with the company, with only 250 shares (1,000/4) actually distributed to and owned by the employee each year. If the employee leaves within the first 4 years, he or she would forfeit ownership of any remaining (“unvested”) shares.
 
-![Deferred Contract](/contract_deferred.png)
+![Deferred Contract](/Images/contract_deferred.png)
 
-![Deferred Contract, deactivate, distribute](/deposit.png)
+![Deferred Contract, deactivate, distribute](/Images/deposit.png)
 
